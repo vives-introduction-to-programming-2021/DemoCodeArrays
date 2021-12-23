@@ -1,4 +1,4 @@
-# CSharp - Light and Die Classes Demo Code
+# CSharp - Arrays Demo Code
 
 Clone:
 
