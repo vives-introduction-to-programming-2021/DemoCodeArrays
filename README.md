@@ -3,5 +3,5 @@
 Clone:
 
 ```bash
-git clone git@github.com:vives-introduction-to-programming-2021/LightAndDieClasses.git
+git clone git@github.com:vives-introduction-to-programming-2021/DemoCodeArrays.git
 ```
